@@ -1,0 +1,60 @@
+{
+  "totalRevenue": 1847293,
+  "ordersToday": 12,
+  "ordersThisMonth": 284,
+  "totalCustomers": 1847,
+  "revenueGrowth": 18.4,
+  "topProducts": [
+    { "id": "p5", "name": "Smart Watch Series X", "sales": 142, "revenue": 851858 },
+    { "id": "p17", "name": "Adjustable Dumbbell Set", "sales": 89, "revenue": 800911 },
+    { "id": "p1", "name": "Wireless Noise-Cancelling Headphones", "sales": 213, "revenue": 638787 },
+    { "id": "p18", "name": "Running Shoes UltraBoost", "sales": 178, "revenue": 1067822 },
+    { "id": "p8", "name": "Puffer Winter Jacket", "sales": 96, "revenue": 335904 }
+  ],
+  "categoryBreakdown": [
+    { "category": "Electronics", "revenue": 712450, "percentage": 38.6 },
+    { "category": "Sports", "revenue": 489320, "percentage": 26.5 },
+    { "category": "Clothing", "revenue": 378940, "percentage": 20.5 },
+    { "category": "Home & Living", "revenue": 195430, "percentage": 10.6 },
+    { "category": "Books", "revenue": 71153, "percentage": 3.8 }
+  ],
+  "dailyRevenue": [
+    { "date": "2024-10-22", "revenue": 54320 },
+    { "date": "2024-10-23", "revenue": 62100 },
+    { "date": "2024-10-24", "revenue": 48750 },
+    { "date": "2024-10-25", "revenue": 71200 },
+    { "date": "2024-10-26", "revenue": 83450 },
+    { "date": "2024-10-27", "revenue": 91200 },
+    { "date": "2024-10-28", "revenue": 67800 },
+    { "date": "2024-10-29", "revenue": 55600 },
+    { "date": "2024-10-30", "revenue": 63200 },
+    { "date": "2024-10-31", "revenue": 78900 },
+    { "date": "2024-11-01", "revenue": 92100 },
+    { "date": "2024-11-02", "revenue": 84500 },
+    { "date": "2024-11-03", "revenue": 76300 },
+    { "date": "2024-11-04", "revenue": 68900 },
+    { "date": "2024-11-05", "revenue": 71200 },
+    { "date": "2024-11-06", "revenue": 59800 },
+    { "date": "2024-11-07", "revenue": 63400 },
+    { "date": "2024-11-08", "revenue": 87600 },
+    { "date": "2024-11-09", "revenue": 94300 },
+    { "date": "2024-11-10", "revenue": 102100 },
+    { "date": "2024-11-11", "revenue": 143200 },
+    { "date": "2024-11-12", "revenue": 98500 },
+    { "date": "2024-11-13", "revenue": 74300 },
+    { "date": "2024-11-14", "revenue": 68900 },
+    { "date": "2024-11-15", "revenue": 79200 },
+    { "date": "2024-11-16", "revenue": 83400 },
+    { "date": "2024-11-17", "revenue": 91700 },
+    { "date": "2024-11-18", "revenue": 88900 },
+    { "date": "2024-11-19", "revenue": 96200 },
+    { "date": "2024-11-20", "revenue": 104500 }
+  ],
+  "recentActivity": [
+    { "type": "order", "message": "New order ORD-015 placed by Vikram Joshi", "time": "2 hours ago" },
+    { "type": "order", "message": "New order ORD-014 placed by Sneha Reddy", "time": "4 hours ago" },
+    { "type": "customer", "message": "New customer Deepa Krishnan registered", "time": "6 hours ago" },
+    { "type": "order", "message": "Order ORD-013 shipped", "time": "8 hours ago" },
+    { "type": "order", "message": "Order ORD-012 delivered", "time": "1 day ago" }
+  ]
+}

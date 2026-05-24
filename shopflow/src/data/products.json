@@ -1,0 +1,485 @@
+[
+  {
+    "id": "p1",
+    "name": "Wireless Noise-Cancelling Headphones",
+    "category": "Electronics",
+    "price": 2999,
+    "originalPrice": 4999,
+    "rating": 4.5,
+    "reviewCount": 248,
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&q=80",
+      "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=600&q=80"
+    ],
+    "description": "Premium wireless headphones with active noise cancellation, 30-hour battery life, and exceptional sound quality. Perfect for work and travel.",
+    "variants": {
+      "colors": ["Black", "White", "Midnight Blue"]
+    },
+    "stock": { "Black": 15, "White": 8, "Midnight Blue": 3 },
+    "isNew": false,
+    "isFeatured": true
+  },
+  {
+    "id": "p2",
+    "name": "Mechanical Gaming Keyboard",
+    "category": "Electronics",
+    "price": 1499,
+    "originalPrice": 1999,
+    "rating": 4.7,
+    "reviewCount": 512,
+    "images": [
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=600&q=80",
+      "https://images.unsplash.com/photo-1595044778747-2f8ed978fd1e?w=600&q=80"
+    ],
+    "description": "RGB mechanical keyboard with tactile switches, N-key rollover, and durable aluminum frame. Built for competitive gaming.",
+    "variants": {
+      "colors": ["Black", "White"]
+    },
+    "stock": { "Black": 20, "White": 5 },
+    "isNew": true,
+    "isFeatured": true
+  },
+  {
+    "id": "p3",
+    "name": "4K Webcam Pro",
+    "category": "Electronics",
+    "price": 3499,
+    "originalPrice": 4499,
+    "rating": 4.3,
+    "reviewCount": 134,
+    "images": [
+      "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=600&q=80"
+    ],
+    "description": "Ultra-HD 4K webcam with autofocus, built-in noise-cancelling mic, and wide-angle lens. Ideal for streaming and video calls.",
+    "variants": {
+      "colors": ["Black"]
+    },
+    "stock": { "Black": 12 },
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p4",
+    "name": "Portable Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 1299,
+    "originalPrice": 1799,
+    "rating": 4.6,
+    "reviewCount": 389,
+    "images": [
+      "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=600&q=80"
+    ],
+    "description": "360-degree surround sound with 20 hours playtime and IPX7 waterproof rating. Take the party anywhere.",
+    "variants": {
+      "colors": ["Black", "Red", "Teal"]
+    },
+    "stock": { "Black": 25, "Red": 10, "Teal": 7 },
+    "isNew": false,
+    "isFeatured": true
+  },
+  {
+    "id": "p5",
+    "name": "Smart Watch Series X",
+    "category": "Electronics",
+    "price": 5999,
+    "originalPrice": 7999,
+    "rating": 4.8,
+    "reviewCount": 621,
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600&q=80"
+    ],
+    "description": "Health tracking, GPS, always-on retina display, and 18-hour battery. The smartwatch that keeps up with your life.",
+    "variants": {
+      "colors": ["Silver", "Space Grey", "Gold"]
+    },
+    "stock": { "Silver": 9, "Space Grey": 14, "Gold": 4 },
+    "isNew": true,
+    "isFeatured": true
+  },
+  {
+    "id": "p6",
+    "name": "Classic Cotton T-Shirt",
+    "category": "Clothing",
+    "price": 499,
+    "originalPrice": 699,
+    "rating": 4.4,
+    "reviewCount": 892,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=600&q=80"
+    ],
+    "description": "100% organic cotton, pre-shrunk and ultra-soft. A wardrobe essential available in 5 colours.",
+    "variants": {
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "colors": ["White", "Black", "Navy", "Grey", "Olive"]
+    },
+    "stock": { "XS-White": 10, "S-White": 20, "M-White": 30, "L-White": 25, "XL-White": 15, "XXL-White": 8, "S-Black": 18, "M-Black": 22, "L-Black": 20 },
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p7",
+    "name": "Slim Fit Chino Pants",
+    "category": "Clothing",
+    "price": 1299,
+    "originalPrice": 1699,
+    "rating": 4.2,
+    "reviewCount": 347,
+    "images": [
+      "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=600&q=80"
+    ],
+    "description": "Stretch-blend slim-fit chinos with a modern tapered cut. Office-ready and weekend-approved.",
+    "variants": {
+      "sizes": ["28", "30", "32", "34", "36", "38"],
+      "colors": ["Khaki", "Navy", "Olive", "Stone"]
+    },
+    "stock": { "30-Khaki": 12, "32-Khaki": 18, "34-Khaki": 10, "30-Navy": 15, "32-Navy": 20 },
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p8",
+    "name": "Puffer Winter Jacket",
+    "category": "Clothing",
+    "price": 3499,
+    "originalPrice": 4999,
+    "rating": 4.7,
+    "reviewCount": 213,
+    "images": [
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=600&q=80"
+    ],
+    "description": "Lightweight yet warm 700-fill down jacket with water-resistant shell. Packs into its own pocket.",
+    "variants": {
+      "sizes": ["S", "M", "L", "XL"],
+      "colors": ["Black", "Cobalt Blue", "Forest Green"]
+    },
+    "stock": { "S-Black": 5, "M-Black": 10, "L-Black": 8, "M-Cobalt Blue": 6, "L-Forest Green": 4 },
+    "isNew": true,
+    "isFeatured": true
+  },
+  {
+    "id": "p9",
+    "name": "Leather Chelsea Boots",
+    "category": "Clothing",
+    "price": 4999,
+    "originalPrice": 6499,
+    "rating": 4.6,
+    "reviewCount": 178,
+    "images": [
+      "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=600&q=80"
+    ],
+    "description": "Full-grain leather Chelsea boots with elastic side panels and leather sole. Handcrafted for lasting comfort.",
+    "variants": {
+      "sizes": ["6", "7", "8", "9", "10", "11", "12"],
+      "colors": ["Tan", "Dark Brown", "Black"]
+    },
+    "stock": { "8-Tan": 4, "9-Tan": 6, "10-Tan": 3, "8-Black": 8, "9-Black": 5 },
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p10",
+    "name": "Linen Summer Dress",
+    "category": "Clothing",
+    "price": 1799,
+    "originalPrice": 2299,
+    "rating": 4.5,
+    "reviewCount": 445,
+    "images": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=600&q=80"
+    ],
+    "description": "Breezy 100% linen midi dress with adjustable tie waist. Perfect for summer days and evenings.",
+    "variants": {
+      "sizes": ["XS", "S", "M", "L", "XL"],
+      "colors": ["White", "Dusty Rose", "Sky Blue"]
+    },
+    "stock": { "XS-White": 6, "S-White": 12, "M-White": 10, "S-Dusty Rose": 8, "M-Sky Blue": 7 },
+    "isNew": true,
+    "isFeatured": true
+  },
+  {
+    "id": "p11",
+    "name": "Minimalist Desk Lamp",
+    "category": "Home & Living",
+    "price": 1999,
+    "originalPrice": 2799,
+    "rating": 4.4,
+    "reviewCount": 267,
+    "images": [
+      "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?w=600&q=80"
+    ],
+    "description": "Adjustable LED desk lamp with 5 brightness levels, USB-C charging port, and touch control. Sleek matte finish.",
+    "variants": {
+      "colors": ["White", "Black", "Warm Gold"]
+    },
+    "stock": { "White": 18, "Black": 22, "Warm Gold": 6 },
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p12",
+    "name": "Ceramic Dinner Set (12-Piece)",
+    "category": "Home & Living",
+    "price": 2499,
+    "originalPrice": 3299,
+    "rating": 4.6,
+    "reviewCount": 193,
+    "images": [
+      "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?w=600&q=80"
+    ],
+    "description": "Hand-glazed stoneware dinner set including 4 dinner plates, 4 side plates, and 4 bowls. Microwave and dishwasher safe.",
+    "variants": {
+      "colors": ["Ivory White", "Sage Green", "Terracotta"]
+    },
+    "stock": { "Ivory White": 9, "Sage Green": 5, "Terracotta": 7 },
+    "isNew": false,
+    "isFeatured": true
+  },
+  {
+    "id": "p13",
+    "name": "Scented Soy Candle Set",
+    "category": "Home & Living",
+    "price": 899,
+    "originalPrice": 1199,
+    "rating": 4.8,
+    "reviewCount": 534,
+    "images": [
+      "https://images.unsplash.com/photo-1602178597986-2f4fb8a2d3dd?w=600&q=80"
+    ],
+    "description": "Set of 3 hand-poured soy wax candles with cotton wicks. Scents: Sandalwood, Lavender, and Citrus Grove.",
+    "variants": {
+      "colors": ["Assorted"]
+    },
+    "stock": { "Assorted": 30 },
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p14",
+    "name": "Bamboo Cutting Board Set",
+    "category": "Home & Living",
+    "price": 799,
+    "originalPrice": 999,
+    "rating": 4.3,
+    "reviewCount": 312,
+    "images": [
+      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&q=80"
+    ],
+    "description": "Set of 3 sustainably sourced bamboo cutting boards in small, medium, and large sizes with juice groove.",
+    "variants": {
+      "colors": ["Natural"]
+    },
+    "stock": { "Natural": 40 },
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p15",
+    "name": "Velvet Throw Pillow (2-Pack)",
+    "category": "Home & Living",
+    "price": 1199,
+    "originalPrice": 1599,
+    "rating": 4.5,
+    "reviewCount": 229,
+    "images": [
+      "https://images.unsplash.com/photo-1584100936595-c0654b55a2e2?w=600&q=80"
+    ],
+    "description": "Luxurious velvet cushion covers with hidden zipper closure and hypoallergenic inserts included.",
+    "variants": {
+      "colors": ["Dusty Pink", "Forest Green", "Slate Blue", "Mustard Yellow"]
+    },
+    "stock": { "Dusty Pink": 15, "Forest Green": 12, "Slate Blue": 8, "Mustard Yellow": 10 },
+    "isNew": true,
+    "isFeatured": false
+  },
+  {
+    "id": "p16",
+    "name": "Yoga Mat Pro",
+    "category": "Sports",
+    "price": 1599,
+    "originalPrice": 1999,
+    "rating": 4.7,
+    "reviewCount": 678,
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&q=80"
+    ],
+    "description": "6mm thick non-slip natural rubber yoga mat with alignment markings and carrying strap. Eco-certified.",
+    "variants": {
+      "colors": ["Purple", "Slate Grey", "Coral", "Teal"]
+    },
+    "stock": { "Purple": 20, "Slate Grey": 18, "Coral": 12, "Teal": 15 },
+    "isNew": false,
+    "isFeatured": true
+  },
+  {
+    "id": "p17",
+    "name": "Adjustable Dumbbell Set",
+    "category": "Sports",
+    "price": 8999,
+    "originalPrice": 11999,
+    "rating": 4.9,
+    "reviewCount": 342,
+    "images": [
+      "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=600&q=80"
+    ],
+    "description": "Dial-select adjustable dumbbells from 2.5 kg to 24 kg each. Replaces 15 pairs of dumbbells. Compact storage.",
+    "variants": {
+      "colors": ["Black/Chrome"]
+    },
+    "stock": { "Black/Chrome": 8 },
+    "isNew": false,
+    "isFeatured": true
+  },
+  {
+    "id": "p18",
+    "name": "Running Shoes UltraBoost",
+    "category": "Sports",
+    "price": 5999,
+    "originalPrice": 7499,
+    "rating": 4.6,
+    "reviewCount": 921,
+    "images": [
+      "https://images.unsplash.com/photo-1491553895911-0055eca6402d?w=600&q=80"
+    ],
+    "description": "Responsive boost midsole with breathable Primeknit upper. Energy return for every stride.",
+    "variants": {
+      "sizes": ["6", "7", "8", "9", "10", "11", "12"],
+      "colors": ["White/Grey", "Black/Red", "Navy/White"]
+    },
+    "stock": { "8-White/Grey": 6, "9-White/Grey": 8, "10-Black/Red": 5, "9-Navy/White": 7 },
+    "isNew": true,
+    "isFeatured": true
+  },
+  {
+    "id": "p19",
+    "name": "Resistance Band Set",
+    "category": "Sports",
+    "price": 699,
+    "originalPrice": 999,
+    "rating": 4.5,
+    "reviewCount": 1243,
+    "images": [
+      "https://images.unsplash.com/photo-1598289431512-b97b0917affc?w=600&q=80"
+    ],
+    "description": "Set of 5 latex resistance bands (10–50 lbs). Includes door anchor, handles, ankle straps, and carry bag.",
+    "variants": {
+      "colors": ["Multicolor Set"]
+    },
+    "stock": { "Multicolor Set": 50 },
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p20",
+    "name": "Stainless Steel Water Bottle",
+    "category": "Sports",
+    "price": 799,
+    "originalPrice": 999,
+    "rating": 4.8,
+    "reviewCount": 2134,
+    "images": [
+      "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=600&q=80"
+    ],
+    "description": "Double-wall vacuum insulated 750ml bottle. Keeps drinks cold 24h and hot 12h. BPA-free, leak-proof lid.",
+    "variants": {
+      "colors": ["Matte Black", "Ocean Blue", "Sage Green", "Blush Pink"]
+    },
+    "stock": { "Matte Black": 35, "Ocean Blue": 28, "Sage Green": 20, "Blush Pink": 15 },
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p21",
+    "name": "Atomic Habits",
+    "category": "Books",
+    "price": 499,
+    "originalPrice": 699,
+    "rating": 4.9,
+    "reviewCount": 5621,
+    "images": [
+      "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=600&q=80"
+    ],
+    "description": "James Clear's #1 bestseller on building good habits and breaking bad ones. Practical strategies backed by science.",
+    "variants": {
+      "colors": ["Paperback", "Hardcover"]
+    },
+    "stock": { "Paperback": 100, "Hardcover": 45 },
+    "isNew": false,
+    "isFeatured": true
+  },
+  {
+    "id": "p22",
+    "name": "The Design of Everyday Things",
+    "category": "Books",
+    "price": 599,
+    "originalPrice": 799,
+    "rating": 4.7,
+    "reviewCount": 3412,
+    "images": [
+      "https://images.unsplash.com/photo-1589829085413-56de8ae18c73?w=600&q=80"
+    ],
+    "description": "Don Norman's timeless guide to user-centered design. Required reading for designers, engineers, and entrepreneurs.",
+    "variants": {
+      "colors": ["Paperback"]
+    },
+    "stock": { "Paperback": 60 },
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p23",
+    "name": "Deep Work",
+    "category": "Books",
+    "price": 449,
+    "originalPrice": 599,
+    "rating": 4.8,
+    "reviewCount": 4287,
+    "images": [
+      "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?w=600&q=80"
+    ],
+    "description": "Cal Newport's guide to focusing without distraction in a noisy world. Transform your professional life.",
+    "variants": {
+      "colors": ["Paperback", "Hardcover"]
+    },
+    "stock": { "Paperback": 80, "Hardcover": 30 },
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p24",
+    "name": "Zero to One",
+    "category": "Books",
+    "price": 549,
+    "originalPrice": 699,
+    "rating": 4.6,
+    "reviewCount": 2901,
+    "images": [
+      "https://images.unsplash.com/photo-1477949331575-2763034f96f1?w=600&q=80"
+    ],
+    "description": "Peter Thiel's notes on startups — how to build companies that create new things and capture their value.",
+    "variants": {
+      "colors": ["Paperback", "Hardcover"]
+    },
+    "stock": { "Paperback": 70, "Hardcover": 25 },
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p25",
+    "name": "Thinking, Fast and Slow",
+    "category": "Books",
+    "price": 599,
+    "originalPrice": 799,
+    "rating": 4.7,
+    "reviewCount": 6134,
+    "images": [
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=600&q=80"
+    ],
+    "description": "Daniel Kahneman's landmark exploration of the two systems that drive the way we think and make choices.",
+    "variants": {
+      "colors": ["Paperback"]
+    },
+    "stock": { "Paperback": 55 },
+    "isNew": false,
+    "isFeatured": true
+  }
+]

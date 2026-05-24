@@ -1,0 +1,124 @@
+[
+  {
+    "id": "c1",
+    "name": "Admin User",
+    "email": "admin@shopflow.com",
+    "password": "admin123",
+    "role": "admin",
+    "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Admin",
+    "joinedAt": "2024-01-15",
+    "savedAddresses": [
+      {
+        "id": "a1",
+        "label": "Office",
+        "name": "Admin User",
+        "phone": "9876543210",
+        "line1": "123 Admin Tower, Sector 5",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560001"
+      }
+    ]
+  },
+  {
+    "id": "c2",
+    "name": "Jane Doe",
+    "email": "jane@example.com",
+    "password": "password123",
+    "role": "customer",
+    "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Jane",
+    "joinedAt": "2024-02-10",
+    "savedAddresses": [
+      {
+        "id": "a2",
+        "label": "Home",
+        "name": "Jane Doe",
+        "phone": "9123456780",
+        "line1": "42, Indiranagar 12th Main",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560038"
+      }
+    ]
+  },
+  {
+    "id": "c3",
+    "name": "Rahul Sharma",
+    "email": "rahul@example.com",
+    "password": "rahul123",
+    "role": "customer",
+    "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Rahul",
+    "joinedAt": "2024-03-05",
+    "savedAddresses": []
+  },
+  {
+    "id": "c4",
+    "name": "Priya Patel",
+    "email": "priya@example.com",
+    "password": "priya123",
+    "role": "customer",
+    "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Priya",
+    "joinedAt": "2024-03-18",
+    "savedAddresses": []
+  },
+  {
+    "id": "c5",
+    "name": "Arjun Nair",
+    "email": "arjun@example.com",
+    "password": "arjun123",
+    "role": "customer",
+    "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Arjun",
+    "joinedAt": "2024-04-01",
+    "savedAddresses": []
+  },
+  {
+    "id": "c6",
+    "name": "Sneha Reddy",
+    "email": "sneha@example.com",
+    "password": "sneha123",
+    "role": "customer",
+    "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Sneha",
+    "joinedAt": "2024-04-22",
+    "savedAddresses": []
+  },
+  {
+    "id": "c7",
+    "name": "Vikram Joshi",
+    "email": "vikram@example.com",
+    "password": "vikram123",
+    "role": "customer",
+    "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Vikram",
+    "joinedAt": "2024-05-08",
+    "savedAddresses": []
+  },
+  {
+    "id": "c8",
+    "name": "Anjali Mehta",
+    "email": "anjali@example.com",
+    "password": "anjali123",
+    "role": "customer",
+    "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Anjali",
+    "joinedAt": "2024-05-15",
+    "savedAddresses": []
+  },
+  {
+    "id": "c9",
+    "name": "Karthik Iyer",
+    "email": "karthik@example.com",
+    "password": "karthik123",
+    "role": "customer",
+    "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Karthik",
+    "joinedAt": "2024-06-01",
+    "savedAddresses": []
+  },
+  {
+    "id": "c10",
+    "name": "Deepa Krishnan",
+    "email": "deepa@example.com",
+    "password": "deepa123",
+    "role": "customer",
+    "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Deepa",
+    "joinedAt": "2024-06-18",
+    "savedAddresses": []
+  }
+]
