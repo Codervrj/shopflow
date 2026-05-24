@@ -215,11 +215,11 @@ export default function HomePage() {
               Shop Sale
             </Link>
           </div>
-          {newArrivals[0] && (
+          {newArrivals[3] && (
             <div className="aspect-auto lg:aspect-square overflow-hidden min-h-[300px]">
               <img
-                src={newArrivals[0].images[0]}
-                alt={newArrivals[0].name}
+                src={newArrivals[3].images[0]}
+                alt={newArrivals[3].name}
                 className="w-full h-full object-cover hover:scale-105 transition-transform duration-700"
               />
             </div>
